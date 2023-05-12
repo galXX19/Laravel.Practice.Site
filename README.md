@@ -1,6 +1,6 @@
 # laragigs
 
-Following the video https://www.youtube.com/watch?v=MYyJ4PuL4pY
+Created by galXX19 by following the video bootcamp: https://www.youtube.com/watch?v=MYyJ4PuL4pY
 
 This site can:
 - login and logout users
